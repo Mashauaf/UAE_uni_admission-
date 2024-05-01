@@ -1,0 +1,152 @@
+ [
+    {
+      "id": 1,
+      "name": "American University of Sharjah",
+      "level_of_study": "UG",
+      "application_deadline": ["May 20", "July 15"],
+      "IELTS_required": "yes"
+    },
+    {
+      "id": 2,
+      "name": "American University of Sharjah",
+      "level_of_study": "PG",
+      "application_deadline": ["May 20", "July 29"],
+      "IELTS_required": "Candidates have secured more than 70% in English during schooling"
+    },
+    {
+      "id": 3,
+      "name": "Khalifa University",
+      "level_of_study": "UG",
+      "application_deadline": ["Currently open (May)"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 4,
+      "name": "Khalifa University",
+      "level_of_study": "PG",
+      "application_deadline": ["14th Feb", "17th May"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 5,
+      "name": "United Arab Emirates University",
+      "level_of_study": "UG",
+      "application_deadline": ["Currently open (May)"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 6,
+      "name": "United Arab Emirates University",
+      "level_of_study": "PG",
+      "application_deadline": ["30th April"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 7,
+      "name": "Abu Dhabi University",
+      "level_of_study": "UG and PG",
+      "application_deadline": ["3rd January", "17th June for Spring and Autumn."],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 8,
+      "name": "University Of Sharjah",
+      "level_of_study": "UG",
+      "application_deadline": ["May 15 - June 16"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 9,
+      "name": "University Of Sharjah",
+      "level_of_study": "PG",
+      "application_deadline": ["20th Feb - 30th June"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 10,
+      "name": "Zayed University",
+      "level_of_study": "UG",
+      "application_deadline": ["9th May - June 30"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 11,
+      "name": "Zayed University",
+      "level_of_study": "PG",
+      "application_deadline": ["18th July"],
+      "IELTS_required": "Yes"
+    }
+  ],
+  "foreign_universities_in_UAE": [
+    {
+      "id": 12,
+      "name": "BITS Pilani",
+      "level_of_study": "UG",
+      "application_deadline": ["12 July", "8 December"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 13,
+      "name": "BITS Pilani",
+      "level_of_study": "PG",
+      "application_deadline": ["10 June", "8 December"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 14,
+      "name": "Westford University College",
+      "level_of_study": "UG and PG",
+      "application_deadline": ["Rolling"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 15,
+      "name": "University of Wollongong",
+      "level_of_study": "UG",
+      "application_deadline": ["Currently open (May)"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 16,
+      "name": "University of Wollongong",
+      "level_of_study": "PG",
+      "application_deadline": ["21st March"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 17,
+      "name": "University of Birmingham",
+      "level_of_study": "UG",
+      "application_deadline": ["January 15"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 18,
+      "name": "University of Birmingham",
+      "level_of_study": "PG",
+      "application_deadline": ["July 1"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 19,
+      "name": "Hult International Business School",
+      "level_of_study": "UG and PG",
+      "application_deadline": ["Rolling, last round- May 25"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 20,
+      "name": "SP Jain School OF Global Management",
+      "level_of_study": "UG",
+      "application_deadline": ["May 31"],
+      "IELTS_required": "Yes"
+    },
+    {
+      "id": 21,
+      "name": "SP Jain School OF Global Management",
+      "level_of_study": "PG",
+      "application_deadline": ["Depends on the program, October 21"],
+      "IELTS_required": "Yes"
+    }
+  ]
+
